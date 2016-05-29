@@ -5,6 +5,8 @@ date:   2016-05-29 01:36:00 -0700
 categories: general
 published: true
 comments: true
+disqus_url: http://emettant.github.io/general/2016/05/29/%D0%B7%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BD%D0%BE-%D0%BE%D0%BF%D1%96%D0%B2%D0%BD%D0%BE%D1%87%D1%96.html
+disqus_id: ba57a6b2-fdad-4d06-8479-cb6904d0aeb4
 ---
 Щиро дякую ресурсам:
 
