@@ -11,15 +11,15 @@
     <div class="container">
       <h3 class="title">Your Life in Weeks</h3>
       <p class="subtitle">
-        Born <span class="date">07/07/1986</span>
-        with a life expectancy of <span class="expectancy">90</span> years
+        Born <span class="date">{{ page.bday }}</span>
+        with a life expectancy of <span class="expectancy">{{ page.yearstolive }}</span> years
       </p>
       <div class="life"></div>
       <div class="form">
         <label class="label">Date of Birth:</label>
-        <input class="field" type="text" placeholder="07/07/1986" /><br/>
+        <input class="field" type="text" placeholder={{ page.bday }} /><br/>
         <label class="label">Life Expectancy:</label>
-        <input class="field" type="text" placeholder="1-99" /><br/>
+        <input class="field" type="text" placeholder={{ page.yearstolive }} /><br/>
       </div>
     </div>
 
