@@ -11,5 +11,5 @@ go and check [Life in weeks][liw]
 ![scr]({{ site_url }}/photo/life-in-weeks-demo.png)
 
 
-[liw]: http://localhost:4000/life-in-weeks/
+[liw]: {{ site_url }}/life-in-weeks/
 
