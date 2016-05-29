@@ -1,3 +1,8 @@
+*.orig
+*BASE*
+*LOCAL*
+*REMOTE*
+*BACKUP*
 *.gem
 *.swp
 *~
