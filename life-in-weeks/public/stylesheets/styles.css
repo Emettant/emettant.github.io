@@ -100,5 +100,5 @@ html, body {
 }
 
 .field { font-family: inherit }
-.field:first-of-type { width: 65px }
-.field:last-of-type  { width: 45px }
+.field:first-of-type { width: 120px }
+.field:last-of-type  { width: 100px }
