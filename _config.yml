@@ -17,3 +17,6 @@ github_username:  emettant
 
 # Build settings
 markdown: kramdown
+
+#default
+site_url: http://emettant.github.io/
