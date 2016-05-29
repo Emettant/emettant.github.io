@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Зроблено опівночі!"
+date:   2016-05-29 01:36:00 -0700
+categories: general
+published: true
+comments: true
+---
+Щиро дякую ресурсам:
+
+ - твірний сайтів популярний [Jekyll][Jekyll];
+
+ - стаття [Life in weeks][liw-article] та тед про прокрасцинацію, що мені її спершу порадив Олександр з Сіетлу, а потім Віталій з Вроцлаву;
+
+ - людині, що вже накидала шаблончик [life-in-weeks][liw-code] на java-script;
+
+ - [git-subtree tool][git-subtree], щоб те прикрутити до репозиторія нашвидкоруч;
+
+ - [vim][vim] чудовому редактору, що з нього люди виходять.
+
+[Jekyll]: https://jekyllrb.com
+[liw-article]: http://waitbutwhy.com/2014/05/life-weeks.html
+[liw-code]: https://github.com/NathanielWroblewski/life-in-weeks
+[git-subtree]: https://github.com/apenwarr/git-subtree
+[vim]: https://www.reddit.com/r/ProgrammerHumor/comments/36t6a0/vim_and_emacs_walk_into_a_bar/
